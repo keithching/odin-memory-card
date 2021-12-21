@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/odin-memory-card/static/css/main.b801733d.css",
+    "main.js": "/odin-memory-card/static/js/main.f2856db4.js",
+    "static/media/oozono.jpeg": "/odin-memory-card/static/media/oozono.40d10282b3ccda01b040.jpeg",
+    "static/media/endo.jpeg": "/odin-memory-card/static/media/endo.797b0fa39d070520bf97.jpeg",
+    "static/media/ten.jpeg": "/odin-memory-card/static/media/ten.38ffc3e4352bf7d4769b.jpeg",
+    "static/media/rika.jpeg": "/odin-memory-card/static/media/rika.fa67766f5ccef98f81ca.jpeg",
+    "static/media/koike.jpeg": "/odin-memory-card/static/media/koike.f4397d36a305c5bafc13.jpeg",
+    "static/media/takemoto.jpeg": "/odin-memory-card/static/media/takemoto.f9c7b00eec7913aa1623.jpeg",
+    "static/media/tamura.jpeg": "/odin-memory-card/static/media/tamura.6355f700956e6b0e5c43.jpeg",
+    "static/media/morita.jpeg": "/odin-memory-card/static/media/morita.b6fb7be853d6c61da8b4.jpeg",
+    "static/media/akane.jpeg": "/odin-memory-card/static/media/akane.2d57c4cfa9a80bf928c2.jpeg",
+    "static/media/ozeki.jpeg": "/odin-memory-card/static/media/ozeki.d5f9c59f7c4c8f7c643d.jpeg",
+    "static/media/kira.jpeg": "/odin-memory-card/static/media/kira.ce621882e1f58257e1ab.jpeg",
+    "static/media/habu.jpeg": "/odin-memory-card/static/media/habu.c7c84d0e6bce6a628cdc.jpeg",
+    "static/media/inoue.jpeg": "/odin-memory-card/static/media/inoue.91f23b32dbb88cb38477.jpeg",
+    "static/media/harada.jpeg": "/odin-memory-card/static/media/harada.9be54ebc2870d2485f7f.jpeg",
+    "index.html": "/odin-memory-card/index.html",
+    "main.b801733d.css.map": "/odin-memory-card/static/css/main.b801733d.css.map",
+    "main.f2856db4.js.map": "/odin-memory-card/static/js/main.f2856db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b801733d.css",
+    "static/js/main.f2856db4.js"
+  ]
+}
