@@ -9,11 +9,8 @@ import Scoreboard from './components/Scoreboard';
 import cardsArray from './assets.js';
 
 function App() {
-  
-  // need to create a number of unique cards.. 
-  // and then spread into the cards state as initial value
 
-  const [ cards, setCards ] = useState(cardsArray);
+  const [ cards, setCards ] = useState(cardsArray); // initial array 
   useEffect(() => { // invoke when component mounts. Execute as a side effect at the background
     
     function shuffleCards () { // card shuffling logic
@@ -42,6 +39,7 @@ function App() {
 
   }, []);
 
+
   const [ currentScore, setCurrentScore ] = useState(0);
 
   const [ bestScore, setBestScore ] = useState(0);
@@ -60,6 +58,7 @@ function App() {
   
   return (
     <div>
+      <div className="header">Sakurazaka Memory Game</div>
       <CardSlot 
         cards={cards}
         setCards={setCards}

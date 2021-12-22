@@ -1,0 +1,12 @@
+.scoreboard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.currentscore,
+.bestscore {
+    font-size: 20px;
+    color: rgba(0,0,0,0.8);
+}

@@ -52,8 +52,6 @@ const CardSlot = (props) => {
                     >
                         <img src={card.img} />
                         <div>{card.description}</div>
-                        {/* <div>card id: {card.id}</div> */}
-                        {/* <div>is clicked: {card.isClicked.toString()}</div> */}
                     </div>
                 );
             })}
